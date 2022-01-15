@@ -1,0 +1,9 @@
+.table{
+    text-align: center;
+    margin:0 auto;
+}
+
+.table_img {
+    width: 75px;
+    border-radius: 50%;
+}
